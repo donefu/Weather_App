@@ -6,8 +6,11 @@ Weather is sometimes difficult to predict. This accurate weather app allows to f
 
 - Current temperature
 - Display weather
-- Wind speed 
+- Wind speed
 - Humidity percentage
 
+Link to the application: https://donefu.github.io/Weather_App/
+
 ### Sample Image
+
 ![Sample Output](/src/images/Snapshot_Sample.png)
